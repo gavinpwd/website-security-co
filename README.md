@@ -75,25 +75,41 @@ This webpage was created using the following:
 
 **Here is a sample screenshots of the webpage:**
 Desktop View
+
 ![Desktop View](/images/desktop-view.png)
 
 
+
+
 Tablet View
+
 ![Tablet View](/images/tablet-landscape.png)
 
 
+
+
 Mobile View
+
 ![Mobile View](/images/mobile-view.png)
 
 
+
+
 Desktop Lighthouse Results using Chrome Dev Tools
+
 ![Desktop Lighthouse](/images/desktop-lighthouse.png)
 
 
+
+
 Mobile Lighthouse Results using Chrome Dev Tools
+
 ![Mobile Lighthouse](/images/mobile-lighthouse.png)
 
 
 
+
+
 Style Guide inspired by the image from the brief
+
 ![Style Guide](/images/style-guide.png)
